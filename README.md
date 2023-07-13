@@ -5,7 +5,7 @@
 </center> -->
 <!-- <img src="https://drive.google.com/file/d/1BufbQuga1LKVgXRxaXt6skrCAYD_-vYQ/view" alt="Screenshot-472" width="500px" height="500px"> -->
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/HB9Y4yh/Screenshot-472.png" alt="Screenshot-472" border="0" width="400px" height="400px"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/LYF1PbR/Screenshot-488.png" alt="Screenshot-488" border="0"  width="400px" height="400px"></a>
+<a href="https://imgbb.com/"><img src="https://previews.123rf.com/images/tupungato/tupungato2301/tupungato230100591/199357562-programmers-copying-and-pasting-code-instead-of-coding-it-industry-problems-funny-meme-for-social.jpg" alt="Screenshot-488" border="0"  width="400px" height="400px"></a>
 <!-- <img src="https://im3.ezgif.com/tmp/ezgif-3-41bc868ec7.gif" alt="" srcset="">  -->
 
 - 🌱 I’m currently learning **Full Stack Java**
