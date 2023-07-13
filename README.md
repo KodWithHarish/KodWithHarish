@@ -4,8 +4,8 @@
 <img style="align-item:center" src="https://i.chzbgr.com/full/9195092480/h7D7C3065/expression-we-find-the-bug-we-fix-the-bug-now-we-have-twobugs-now-we-have-three-bugs-imgflipcom" alt="" srcset=""> 
 </center> -->
 <!-- <img src="https://drive.google.com/file/d/1BufbQuga1LKVgXRxaXt6skrCAYD_-vYQ/view" alt="Screenshot-472" width="500px" height="500px"> -->
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/HB9Y4yh/Screenshot-472.png" alt="Screenshot-472" border="0" width="500px" height="500px"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/LYF1PbR/Screenshot-488.png" alt="Screenshot-488" border="0"  width="500px" height="500px"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/HB9Y4yh/Screenshot-472.png" alt="Screenshot-472" border="0" width="300px" height="300px"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/LYF1PbR/Screenshot-488.png" alt="Screenshot-488" border="0"  width="300px" height="300px"></a>
 <!-- <img src="https://im3.ezgif.com/tmp/ezgif-3-41bc868ec7.gif" alt="" srcset="">  -->
 
 - 🌱 I’m currently learning **Full Stack Java**
