@@ -2,8 +2,6 @@
 <h3 align="center">Ability To Fully Implement The Software Development Life Cycle (SDLC) And Analyse Programme Performance To Address Flaws.</h3>
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/HB9Y4yh/Screenshot-472.png" alt="Screenshot-472" border="0" width="400px" height="400px"></a>
-<a href="https://imgbb.com/"><img src="https://previews.123rf.com/images/tupungato/tupungato2301/tupungato230100591/199357562-programmers-copying-and-pasting-code-instead-of-coding-it-industry-problems-funny-meme-for-social.jpg" alt="Screenshot-488" border="0"  width="400px" height="400px"></a>
-
 <img src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif" alt="Screenshot-488" border="0"  width="400px" height="400px">
 
 - 🌱 I’m currently learning **Full Stack Java**
