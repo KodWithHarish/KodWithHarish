@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Harish Kumbhar</h1>
 <h3 align="center">Ability To Fully Implement The Software Development Life Cycle (SDLC) And Analyse Programme Performance To Address Flaws.</h3>
-<!-- <center>
-<img style="align-item:center" src="https://i.chzbgr.com/full/9195092480/h7D7C3065/expression-we-find-the-bug-we-fix-the-bug-now-we-have-twobugs-now-we-have-three-bugs-imgflipcom" alt="" srcset=""> 
-</center> -->
-<!-- <img src="https://drive.google.com/file/d/1BufbQuga1LKVgXRxaXt6skrCAYD_-vYQ/view" alt="Screenshot-472" width="500px" height="500px"> -->
+
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/HB9Y4yh/Screenshot-472.png" alt="Screenshot-472" border="0" width="400px" height="400px"></a>
 <a href="https://imgbb.com/"><img src="https://previews.123rf.com/images/tupungato/tupungato2301/tupungato230100591/199357562-programmers-copying-and-pasting-code-instead-of-coding-it-industry-problems-funny-meme-for-social.jpg" alt="Screenshot-488" border="0"  width="400px" height="400px"></a>
-<!-- <img src="https://im3.ezgif.com/tmp/ezgif-3-41bc868ec7.gif" alt="" srcset="">  -->
+
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif" alt="Screenshot-488" border="0"  width="400px" height="400px">
 
 - 🌱 I’m currently learning **Full Stack Java**
 
@@ -14,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://harishkumbharportfolio.000webhostapp.com/](https://harishkumbharportfolio.000webhostapp.com/)
 
-- 💬 Ask me about **HTML,CSS,Data Science,Python and Android Custom ROMs**
+- 💬 Ask me about **HTML,CSS,Data Science,Python,Java and Android Custom ROMs**
 
 - 📫 How to reach me **https://harishkumbharportfolio.000webhostapp.com/#contact**
 
